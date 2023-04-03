@@ -1,0 +1,23 @@
+body{
+  background-color:#EAF6F6 ;
+}
+hr{border-style: dotted;}
+hr{
+  width:80px;
+  border-width: 10px;
+    }
+    hr{border-color: Blue;}
+h1{
+  color: #68BFBF;
+}
+h2
+{
+  color: #68BFBF;
+  background-color: grey;
+}
+.raju{
+  background-color: black;
+}
+.biju{
+  background-color: blue;
+}
